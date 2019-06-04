@@ -1,2 +1,2 @@
-# Send OTP to user mobile
+ Send OTP to user mobile
 
